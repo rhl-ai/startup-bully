@@ -152,7 +152,6 @@ Selling sugar directly to children? This idea isn't just bad—it's spectacularl
 
 ### Screenshots
 
-![Homepage](./demo/images/homepage.png)
 *The simple, clean interface for submitting startup ideas*
 
 ![Results](./demo/images/example3.png)
