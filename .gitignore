@@ -5,6 +5,10 @@
 logs/
 *.log
 
+# Allow demo directory and contents
+!demo/
+!demo/**/*
+
 # Python
 __pycache__/
 *.py[cod]
