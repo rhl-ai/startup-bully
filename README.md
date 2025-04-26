@@ -1,6 +1,6 @@
 # Startup Bully
 
-![Startup Bully Logo](static/img/logo.png)
+![Startup Bully Logo](./demo/logo.png)
 
 A FastAPI application that researches a person's background and provides brutally honest feedback on their startup idea. This application combines Google's Gemini API for research with Ollama's local LLM for generating critical feedback.
 
