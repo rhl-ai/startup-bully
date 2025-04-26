@@ -134,3 +134,26 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## ⚠️ Disclaimer
 
 This application is intended for educational and entertainment purposes only. The feedback provided should not be taken as professional business advice.
+
+## 📸 Demo
+
+Check out the [demo directory](./demo) for sample logs and screenshots of the application in action.
+
+### Sample Output
+
+Here's an example of the brutally honest feedback provided by the application:
+
+```
+Ah, Rahil Memon—data scientist turned sugar peddler. Let's tear this dream apart, piece by piece.
+
+**Market Viability: Disastrous**
+Selling sugar directly to children? This idea isn't just bad—it's spectacularly tone-deaf in today's health-conscious world.
+```
+
+### Screenshots
+
+![Homepage](./demo/images/homepage.png)
+*The simple, clean interface for submitting startup ideas*
+
+![Results](./demo/images/example3.png)
+*Brutally honest feedback with proper Markdown formatting*
